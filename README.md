@@ -1,4 +1,42 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">Welcome to AirBnB Clone App 👋</h1>
+<p>
+  <a href="https://github.com/mrchreesa/airbnb-frontend" target="_blank">
+    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
+  </a>
+  <a href="https://twitter.com/mrchreesa" target="_blank">
+    <img alt="Twitter: mrchreesa" src="https://img.shields.io/twitter/follow/mrchreesa.svg?style=social" />
+  </a>
+</p>
+
+> This repository is for the Frontend of AirBnB Clone. To build the frontend I've used Next.js in order to have access to server side rendering and server side props. For designing the components I used Material UI which provided me with easy customisation of dropdown menus, navbars, buttons, titles, paragraphs etc.
+
+<h1 align="center"> 🏠 (https://nutri-tracker.krisrahnev.com) </h1>
+</br>
+<p align="center">
+ 🔶🔶🔶 Technologies Used FrontEnd 🔶🔶🔶
+ </p>
+<p align="center">
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- Next.js
+- Material UI
+- Webpack
+- Fetch
+- Date-io
+- Moment
+- Git
+- GitHub
+</p>
+</br>
+<p align="center">
+🔷🔷🔷 Technologies Used [BackEnd](https://github.com/mrchreesa/nutri-tracker-app-backend) 🔷🔷🔷
+</p>
+<p align="center">
+- Sanity.io
+</p>
+
+</br>
 
 ## Getting Started
 
