@@ -50,7 +50,10 @@ const Home = ({ properties }) => {
                       (property) => property.propertyType == propertyTypeToggle
                     )
                     .map((property) => (
-                      <Link href={`property/${property.slug.current}`}>
+                      <Link
+                        key={property._id}
+                        href={`property/${property.slug.current}`}
+                      >
                         <div key={property._id} className="card">
                           <img src={urlFor(property.mainImage)} />
 
@@ -62,7 +65,10 @@ const Home = ({ properties }) => {
                       </Link>
                     ))
                 : properties.map((property) => (
-                    <Link href={`property/${property.slug.current}`}>
+                    <Link
+                      key={property._id}
+                      href={`property/${property.slug.current}`}
+                    >
                       <div key={property._id} className="card">
                         <img src={urlFor(property.mainImage)} />
 
