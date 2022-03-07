@@ -11,6 +11,7 @@
 AirBnB Clone as the name suggests is a clone of the property rental site AirBnB. Building it I've used Next.js in order to have access to server side rendering and server side props. For designing the components I used Material UI which provided me with easy customisation of dropdown menus, navbars, buttons, titles, paragraphs etc. The calender component was build with Date-io and Moment. All the data coming from the backend was fetched with Fetch and passed down as server side props.
 
 <img align="center" src="./preview 1.png" alt="preview page" />
+<img align="center" src="./preview 2.png" alt="preview page" />
 
 <h1 align="center"> 🏠 (https://airbnb-clone.krisrahnev.com) </h1>
 </br>
