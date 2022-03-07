@@ -40,8 +40,24 @@
 
 ## Getting Started
 
+Clone the project
+
 ```bash
-npm run dev
+$ git clone https://github.com/mrchreesa/airbnb-frontend.git
+```
+
+Install the dependencies:
+
+```bash
+$ yarn install
 # or
-yarn dev
+$ npm install
+```
+
+Run the project
+
+```bash
+$ npm run dev
+# or to build
+$ npm run build
 ```
