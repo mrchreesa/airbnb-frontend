@@ -64,3 +64,15 @@ $ npm run dev
 # or
 $ npm run build
 ```
+
+## Author
+
+👤 **Kristian Rahnev**
+
+- Twitter: [@mrchreesa](https://twitter.com/mrchreesa)
+- Github: [@mrchreesa](https://github.com/mrchreesa)
+- LinkedIn: [@kristian-rahnev-90b35913a/](https://linkedin.com/in/kristian-rahnev-90b35913a/)
+
+## Show your support
+
+Give a ⭐️ for this project!
