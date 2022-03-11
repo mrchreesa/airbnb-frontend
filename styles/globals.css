@@ -361,7 +361,7 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url(/landing3.jpeg);
+  background-image: url("/landing3.jpeg");
   border-radius: 15px;
 }
 .landing-main h1 {
@@ -421,7 +421,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
 
-  background-image: url(/giftcard.png);
+  background-image: url("/giftcard.png");
 }
 .button-gifts:hover {
   background-color: #000000;
@@ -484,19 +484,19 @@ body {
   background-color: rgb(165, 32, 105);
 }
 .img1 {
-  background-image: url(/area1.jpeg);
+  background-image: url("/area1.jpeg");
   /* height: 50%; */
 }
 .img2 {
-  background-image: url(/area2.jpeg);
+  background-image: url("/area2.jpeg");
   /* height: 50%; */
 }
 .img3 {
-  background-image: url(/area3.jpeg);
+  background-image: url("/area3.jpeg");
   /* height: 50%; */
 }
 .img4 {
-  background-image: url(/area4.jpeg);
+  background-image: url("/area4.jpeg");
 }
 .content-img {
   width: 80%;
@@ -586,14 +586,14 @@ body {
   cursor: pointer;
 }
 .fb {
-  background-image: url(/fb1.png);
+  background-image: url("/fb1.png");
   width: 25px;
   height: 20px;
   margin: 5px;
   background-size: 20px;
 }
 .ig {
-  background-image: url(/insta.jpeg);
+  background-image: url("/insta.jpeg");
   width: 25px;
   height: 20px;
   margin: 5px;
