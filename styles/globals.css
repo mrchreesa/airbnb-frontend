@@ -600,7 +600,7 @@ body {
   background-size: 20px;
 }
 .twitter {
-  background-image: url(twitter.png);
+  background-image: url("/twitter.png");
   width: 25px;
   height: 20px;
   margin: 5px;
