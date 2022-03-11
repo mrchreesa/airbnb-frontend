@@ -42,7 +42,7 @@ body {
   width: 130px;
   height: 40px;
   padding: 5px;
-  background-image: url("../images/airbnb-logo.png");
+  background-image: url("/airbnb-logo.png");
   background-size: 100px;
   background-repeat: no-repeat;
   background-position: center;
