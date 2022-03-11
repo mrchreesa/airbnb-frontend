@@ -361,7 +361,7 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url(../images/landing3.jpeg);
+  background-image: url(/landing3.jpeg);
   border-radius: 15px;
 }
 .landing-main h1 {
