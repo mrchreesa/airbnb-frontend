@@ -271,7 +271,8 @@ body {
 .css-11b3ww9-MuiPaper-root-MuiAppBar-root button {
   color: black !important;
 }
-.css-11b3ww9-MuiPaper-root-MuiAppBar-root .logo-landing {
+
+.MuiPaper-root.MuiPaper-elevation.MuiPaper-elevation4 .logo-landing {
   width: 130px;
   height: 40px;
   padding: 5px;
@@ -282,13 +283,14 @@ body {
   cursor: pointer;
   transition: all 0.3s ease-in-out;
 }
+
 .css-11b3ww9-MuiPaper-root-MuiAppBar-root {
   transition: all 0.5s ease-in-out;
 }
 .css-1hc7nu0-MuiPaper-root-MuiAppBar-root {
   transition: all 0.5s ease-in-out;
 }
-.css-1hc7nu0-MuiPaper-root-MuiAppBar-root .logo-landing {
+.MuiPaper-root.MuiPaper-elevation.MuiPaper-elevation0 .logo-landing {
   background-image: url("/white.png");
   width: 130px;
   height: 40px;
