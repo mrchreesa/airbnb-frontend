@@ -243,7 +243,7 @@ body {
   background-position: center;
   border: 1px solid rgb(212, 212, 212);
   border-radius: 25px;
-  background-image: url("../images/menu.png");
+  background-image: url("/menu.png");
   transition: 0.3s ease-in-out;
 }
 .btn-menu:hover {
@@ -275,7 +275,7 @@ body {
   width: 130px;
   height: 40px;
   padding: 5px;
-  background-image: url("../images/airbnb-logo.png");
+  background-image: url("/airbnb-logo.png");
   background-size: 100px;
   background-repeat: no-repeat;
   background-position: center;
@@ -289,7 +289,7 @@ body {
   transition: all 0.5s ease-in-out;
 }
 .css-1hc7nu0-MuiPaper-root-MuiAppBar-root .logo-landing {
-  background-image: url("../images/white.png");
+  background-image: url("/white.png");
   width: 130px;
   height: 40px;
   padding: 5px;
@@ -421,7 +421,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
 
-  background-image: url(../images/giftcard.png);
+  background-image: url(/giftcard.png);
 }
 .button-gifts:hover {
   background-color: #000000;
@@ -484,19 +484,19 @@ body {
   background-color: rgb(165, 32, 105);
 }
 .img1 {
-  background-image: url(../images/area1.jpeg);
+  background-image: url(/area1.jpeg);
   /* height: 50%; */
 }
 .img2 {
-  background-image: url(../images/area2.jpeg);
+  background-image: url(/area2.jpeg);
   /* height: 50%; */
 }
 .img3 {
-  background-image: url(../images/area3.jpeg);
+  background-image: url(/area3.jpeg);
   /* height: 50%; */
 }
 .img4 {
-  background-image: url(../images/area4.jpeg);
+  background-image: url(/area4.jpeg);
 }
 .content-img {
   width: 80%;
@@ -586,21 +586,21 @@ body {
   cursor: pointer;
 }
 .fb {
-  background-image: url(../images/fb1.png);
+  background-image: url(/fb1.png);
   width: 25px;
   height: 20px;
   margin: 5px;
   background-size: 20px;
 }
 .ig {
-  background-image: url(../images/insta.jpeg);
+  background-image: url(/insta.jpeg);
   width: 25px;
   height: 20px;
   margin: 5px;
   background-size: 20px;
 }
 .twitter {
-  background-image: url(../images/twitter.png);
+  background-image: url(twitter.png);
   width: 25px;
   height: 20px;
   margin: 5px;
