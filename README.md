@@ -12,7 +12,7 @@
   </a>
 </p>
 
-AirBnB Clone as the name suggests is a clone of the property rental site AirBnB. Building it I've used Next.js in order to have access to server side rendering and server side props. For designing the components I used Material UI which provided me with easy customisation of dropdown menus, navbars, buttons, titles, paragraphs etc. The calender component was build with Date-io and Moment. The backend was built with Sanity.io, it's headless CMS provides a quick and easy way to get up and running database and fetch all the data with ease by using GROQ query language.
+AirBnB Clone as the name suggests is a clone of the property rental site AirBnB. To build it I've used Next.js in order to have access to server side rendering and server side props. For designing the components I used Material UI which provided me with easy customisation of dropdown menus, navbars, buttons, titles, paragraphs etc. The calender component was build with Date-io and Moment. The backend was built with Sanity.io, it's headless CMS provides a quick and easy way to get up and running database and fetch all the data with ease by using GROQ query language.
 
 <img align="center" src="./preview 1.png" alt="preview page" />
 <img align="center" src="./preview 2.png" alt="preview page" />
